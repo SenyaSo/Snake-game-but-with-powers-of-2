@@ -8,6 +8,7 @@
         <li>The snake must eat numbers that are powers of two.</li>
         <li>Example: 2, 4, 8, 16...</li>
     </ul>
+    <img src="Уровень 1.gif" width="40%" height="40%"/>
 </div>
 
 <div class="level-details">
@@ -16,6 +17,7 @@
         <li>Eat numbers in sequential order based on their power of two.</li>
         <li>Example: First eat 2^1=2, then 2^2=4, next 2^3=8, etc.</li>
     </ul>
+    <img src="Уровень 2.gif" width="40%" height="40%"/>
 </div>
 
 <div class="level-details">
@@ -24,4 +26,6 @@
         <li>Eat numbers depending on a specified exponent value shown on screen.</li>
         <li>For example, if the current target is 2^3, you need to eat the number 8.</li>
     </ul>
+    <img src="Уровень 3.gif" width="40%" height="40%"/>
+</div>
 </div>
