@@ -9,6 +9,7 @@
         <li>Example: 2, 4, 8, 16...</li>
     </ul>
 </div>
+![](https://github.com/SenyaSo/Snake-game-but-with-powers-of-2/blob/main/%D0%A3%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%201.gif)
 
 <div class="level-details">
     <h2>Level 2: Sequential Powers</h2>
