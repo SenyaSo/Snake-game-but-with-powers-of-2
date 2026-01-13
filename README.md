@@ -1,4 +1,3 @@
-# Snake-game-but-with-powers-of-2
 <h1>Snake Game with Math Challenge</h1>
 <p>A fun twist on the classic Snake game!</p>
 
